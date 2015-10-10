@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="Site.Templates.Layout" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+  
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../Content/bootstrap-theme.css" rel="stylesheet" />
+
+    <script src="../Scripts/jquery-1.9.1.js"></script>
+    <script src="../Scripts/bootstrap.js"></script>
+    
+
+</head>
+<body class="container">
+    
+    <!-- Área de cabeçalho -->
+   <nav class="navbar navbar-inverse">
+		<div class="container">
+			
+			<ul class="nav navbar-nav">
+				
+				<li><a href="#" class="dropdown-toggle"
+				data-toggle="dropdown"> FUNCIONÁRIO
+				<span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="../Pages/Funcionario.aspx">Funcionário</></li>
+						<li><a href="../Pages/Medicos.aspx">Médico</a></li>
+						<li><a href="../Pages/Medicacao.aspx">Medicação</a></li>
+					</ul>
+				</li>
+				
+				<li><a href="#" class="dropdown-toggle"
+					data-toggle="dropdown">PACIENTE 
+					<span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="../Pages/Paciente.aspx">Novo</a></li>
+                        
+						<li><a href="#">Consulta</a></li>
+					</ul>
+				</li>
+				
+				
+				<li><a href="#">SAIR</a></li>
+			</ul>
+		</div>
+	</nav>
+
+    <!-- Local para definir onde será inserido o conteudo das demais páginas -->
+    <asp:ContentPlaceHolder ID="conteudo" runat="server">
+    </asp:ContentPlaceHolder>
+
+    
+</body>
+</html>

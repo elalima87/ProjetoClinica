@@ -1,0 +1,20 @@
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Dal\bin\Debug\Dal.dll
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Dal\bin\Debug\Dal.pdb
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Dal\obj\Debug\Dal.dll
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Dal\obj\Debug\Dal.pdb
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Dal\bin\Debug\Dal.dll
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Dal\bin\Debug\Dal.pdb
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Dal\obj\Debug\Dal.dll
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Dal\obj\Debug\Dal.pdb
+D:\Rafa\ProjetoFinal\Dal\bin\Debug\Dal.dll
+D:\Rafa\ProjetoFinal\Dal\bin\Debug\Dal.pdb
+D:\Rafa\ProjetoFinal\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+D:\Rafa\ProjetoFinal\Dal\obj\Debug\Dal.dll
+D:\Rafa\ProjetoFinal\Dal\obj\Debug\Dal.pdb
+D:\Projetos\20151001\ProjetoFinal\Dal\bin\Debug\Dal.dll
+D:\Projetos\20151001\ProjetoFinal\Dal\bin\Debug\Dal.pdb
+D:\Projetos\20151001\ProjetoFinal\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+D:\Projetos\20151001\ProjetoFinal\Dal\obj\Debug\Dal.dll
+D:\Projetos\20151001\ProjetoFinal\Dal\obj\Debug\Dal.pdb

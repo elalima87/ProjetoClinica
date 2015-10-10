@@ -1,0 +1,36 @@
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\bin\Site.dll
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\bin\Site.pdb
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\obj\Debug\Site.dll
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\obj\Debug\Site.pdb
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\bin\Dal.dll
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\bin\Dal.pdb
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\obj\Debug\RdlCompile.cache
+C:\Users\rafaela.pinheiro\Documents\Visual Studio 2012\Projects\ProjetoFinal\Site\obj\Debug\RdlCompile.compiled
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\bin\Site.dll
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\bin\Site.pdb
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\bin\Dal.dll
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\bin\Dal.pdb
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\obj\Debug\RdlCompile.cache
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\obj\Debug\RdlCompile.compiled
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\obj\Debug\Site.dll
+C:\Users\rafaela.pinheiro\Downloads\ProjetoFinal\Site\obj\Debug\Site.pdb
+D:\Rafa\ProjetoFinal\Site\bin\Site.dll
+D:\Rafa\ProjetoFinal\Site\bin\Site.pdb
+D:\Rafa\ProjetoFinal\Site\bin\Dal.dll
+D:\Rafa\ProjetoFinal\Site\bin\Dal.pdb
+D:\Rafa\ProjetoFinal\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+D:\Rafa\ProjetoFinal\Site\obj\Debug\RdlCompile.cache
+D:\Rafa\ProjetoFinal\Site\obj\Debug\RdlCompile.compiled
+D:\Rafa\ProjetoFinal\Site\obj\Debug\Site.dll
+D:\Rafa\ProjetoFinal\Site\obj\Debug\Site.pdb
+D:\Projetos\20151001\ProjetoFinal\Site\bin\Site.dll
+D:\Projetos\20151001\ProjetoFinal\Site\bin\Site.pdb
+D:\Projetos\20151001\ProjetoFinal\Site\bin\Dal.dll
+D:\Projetos\20151001\ProjetoFinal\Site\bin\Dal.pdb
+D:\Projetos\20151001\ProjetoFinal\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+D:\Projetos\20151001\ProjetoFinal\Site\obj\Debug\RdlCompile.cache
+D:\Projetos\20151001\ProjetoFinal\Site\obj\Debug\RdlCompile.compiled
+D:\Projetos\20151001\ProjetoFinal\Site\obj\Debug\Site.dll
+D:\Projetos\20151001\ProjetoFinal\Site\obj\Debug\Site.pdb
